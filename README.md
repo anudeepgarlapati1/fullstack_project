@@ -116,3 +116,12 @@ campus-internship-tracker/
 Outputs:
 check in ppt.
 
+CAMPUS INTERNSHIP TRACKER 
+                                             
+    http://localhost:8080                                  
+
+                                                             
+   TEST CREDENTIALS:                                      
+     Student: aarav@test.com / student123                   
+     Admin:   admin@test.com / admin123 
+     
