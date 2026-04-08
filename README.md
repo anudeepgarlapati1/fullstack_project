@@ -124,4 +124,12 @@ CAMPUS INTERNSHIP TRACKER
    TEST CREDENTIALS:                                      
      Student: aarav@test.com / student123                   
      Admin:   admin@test.com / admin123 
+
+   How to Start the Application
+   
+Step 1: Open Terminal/Git Bash
+   bash
+   cd /c/fullstack/CampusInternshipComplete
+Step 2: Start the Server
+     mvn spring-boot:run  
      
